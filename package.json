@@ -67,6 +67,9 @@
   "dependencies": {
     "@babel/runtime": "*"
   },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
   "sideEffects": false,
   "main": "dist/index.cjs.js",
   "module": "lib/index.js",
