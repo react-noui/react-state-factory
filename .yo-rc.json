@@ -1,0 +1,17 @@
+{
+  "@anansi/generator-js": {
+    "githubOrg": "notwillk",
+    "rootPath": "src",
+    "assetPath": "dist",
+    "serverPath": "dist-server",
+    "appName": "react-state-factory",
+    "githubDomain": "github.com",
+    "testing": true,
+    "features": [
+      "testing",
+      "CI"
+    ],
+    "badges": "[![CircleCI](https://circleci.com/gh/notwillk/react-state-factory.svg?style=shield)](https://circleci.com/gh/notwillk/react-state-factory)\n\n[![npm downloads](https://img.shields.io/npm/dm/react-state-factory.svg?style=flat-square)](https://www.npmjs.com/package/react-state-factory)\n[![gzip size](https://img.badgesize.io/https://unpkg.com/react-state-factory?compression=gzip&style=flat-square)](https://unpkg.com/react-state-factory)\n[![npm version](https://img.shields.io/npm/v/react-state-factorys.svg?style=flat-square)](https://www.npmjs.com/package/react-state-factory)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)",
+    "libPath": "lib"
+  }
+}
